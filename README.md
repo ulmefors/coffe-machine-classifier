@@ -1,6 +1,6 @@
 # coffee-machine-classifier
 
-Classify coffee machines using fastai (pytorch). Create dataset using Bing Image Search API.
+Classify coffee machines using [fastai](https://github.com/fastai/fastai). Create dataset using [Bing Image Search API](https://docs.microsoft.com/en-us/bing/search-apis/bing-web-search/create-bing-search-service-resource).
 
 ## Install
 
