@@ -7,7 +7,7 @@ Classify coffee machines using [fastai](https://github.com/fastai/fastai). Creat
 ```shell
 $ conda create -n coffee python=3.6
 $ conda activate coffee
-$ conda install -c fastai -c pytorch fastai jupyterlab path
+$ conda install -c fastai -c pytorch fastai jupyterlab path ipywidgets
 ```
 
 ## Data
